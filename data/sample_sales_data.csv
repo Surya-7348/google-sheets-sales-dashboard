@@ -1,0 +1,321 @@
+Date,Order ID,Region,Salesperson,Product,Category,Units,Unit Price,Revenue,Status
+2026-04-01,ORD-1001,North,Aman Verma,Webcam HD,Electronics,4,2499,9996,Cancelled
+2026-04-01,ORD-1002,West,Sneha Joshi,Keyboard,Electronics,3,1299,3897,Delivered
+2026-04-02,ORD-1003,South,Divya Nair,Office Chair,Furniture,2,4500,9000,Delivered
+2026-04-03,ORD-1004,West,Sneha Joshi,Gel Pen Pack,Stationery,13,180,2340,Delivered
+2026-04-05,ORD-1005,North,Aman Verma,Office Chair,Furniture,2,4500,9000,Delivered
+2026-04-06,ORD-1006,East,Rohit Das,Gel Pen Pack,Stationery,15,180,2700,Delivered
+2026-04-07,ORD-1007,West,Sneha Joshi,Webcam HD,Electronics,1,2499,2499,Delivered
+2026-04-08,ORD-1008,North,Neha Gupta,"Monitor 24""",Electronics,3,9500,28500,Pending
+2026-04-08,ORD-1009,East,Rohit Das,A4 Paper Box,Stationery,22,650,14300,Delivered
+2026-04-11,ORD-1010,West,Sneha Joshi,Office Chair,Furniture,2,4500,9000,Delivered
+2026-04-11,ORD-1011,West,Sneha Joshi,Bookshelf,Furniture,2,3800,7600,Pending
+2026-04-11,ORD-1012,South,Karthik Rao,Notebook Set,Stationery,14,320,4480,Delivered
+2026-04-12,ORD-1013,North,Neha Gupta,"Monitor 24""",Electronics,3,9500,28500,Pending
+2026-04-12,ORD-1014,West,Sneha Joshi,Gel Pen Pack,Stationery,5,180,900,Delivered
+2026-04-13,ORD-1015,West,Vikas Patil,Office Chair,Furniture,2,4500,9000,Delivered
+2026-04-13,ORD-1016,North,Neha Gupta,Bookshelf,Furniture,1,3800,3800,Delivered
+2026-04-14,ORD-1017,East,Rohit Das,Office Chair,Furniture,3,4500,13500,Delivered
+2026-04-14,ORD-1018,North,Aman Verma,A4 Paper Box,Stationery,24,650,15600,Delivered
+2026-04-15,ORD-1019,West,Vikas Patil,Bookshelf,Furniture,2,3800,7600,Cancelled
+2026-04-15,ORD-1020,West,Sneha Joshi,Office Chair,Furniture,1,4500,4500,Delivered
+2026-04-16,ORD-1021,East,Priya Sen,A4 Paper Box,Stationery,20,650,13000,Cancelled
+2026-04-17,ORD-1022,South,Karthik Rao,Notebook Set,Stationery,18,320,5760,Delivered
+2026-04-17,ORD-1023,South,Divya Nair,Webcam HD,Electronics,1,2499,2499,Delivered
+2026-04-17,ORD-1024,West,Sneha Joshi,Notebook Set,Stationery,10,320,3200,Delivered
+2026-04-17,ORD-1025,North,Neha Gupta,Notebook Set,Stationery,10,320,3200,Pending
+2026-04-18,ORD-1026,North,Aman Verma,Notebook Set,Stationery,3,320,960,Pending
+2026-04-18,ORD-1027,East,Rohit Das,Gel Pen Pack,Stationery,19,180,3420,Delivered
+2026-04-20,ORD-1028,East,Priya Sen,A4 Paper Box,Stationery,22,650,14300,Delivered
+2026-04-20,ORD-1029,East,Priya Sen,Study Table,Furniture,2,6200,12400,Delivered
+2026-04-20,ORD-1030,North,Aman Verma,Keyboard,Electronics,4,1299,5196,Delivered
+2026-04-20,ORD-1031,West,Vikas Patil,Keyboard,Electronics,2,1299,2598,Delivered
+2026-04-21,ORD-1032,South,Karthik Rao,Webcam HD,Electronics,1,2499,2499,Delivered
+2026-04-21,ORD-1033,North,Aman Verma,Notebook Set,Stationery,13,320,4160,Delivered
+2026-04-22,ORD-1034,North,Aman Verma,Wireless Mouse,Electronics,3,799,2397,Delivered
+2026-04-22,ORD-1035,North,Neha Gupta,Study Table,Furniture,1,6200,6200,Delivered
+2026-04-22,ORD-1036,South,Karthik Rao,Office Chair,Furniture,1,4500,4500,Delivered
+2026-04-22,ORD-1037,West,Vikas Patil,Office Chair,Furniture,1,4500,4500,Pending
+2026-04-22,ORD-1038,North,Neha Gupta,Notebook Set,Stationery,17,320,5440,Delivered
+2026-04-23,ORD-1039,South,Karthik Rao,"Monitor 24""",Electronics,1,9500,9500,Delivered
+2026-04-23,ORD-1040,West,Vikas Patil,Notebook Set,Stationery,7,320,2240,Delivered
+2026-04-25,ORD-1041,South,Divya Nair,Gel Pen Pack,Stationery,6,180,1080,Delivered
+2026-04-25,ORD-1042,North,Aman Verma,Webcam HD,Electronics,4,2499,9996,Delivered
+2026-04-26,ORD-1043,West,Sneha Joshi,Wireless Mouse,Electronics,3,799,2397,Delivered
+2026-04-28,ORD-1044,East,Priya Sen,Wireless Mouse,Electronics,4,799,3196,Delivered
+2026-04-28,ORD-1045,North,Neha Gupta,Study Table,Furniture,3,6200,18600,Delivered
+2026-04-28,ORD-1046,South,Divya Nair,Webcam HD,Electronics,4,2499,9996,Delivered
+2026-04-28,ORD-1047,East,Priya Sen,Wireless Mouse,Electronics,3,799,2397,Delivered
+2026-04-29,ORD-1048,East,Rohit Das,Bookshelf,Furniture,2,3800,7600,Delivered
+2026-04-30,ORD-1049,North,Aman Verma,Notebook Set,Stationery,22,320,7040,Pending
+2026-05-01,ORD-1050,South,Divya Nair,Study Table,Furniture,1,6200,6200,Cancelled
+2026-05-02,ORD-1051,North,Neha Gupta,Gel Pen Pack,Stationery,16,180,2880,Delivered
+2026-05-03,ORD-1052,East,Rohit Das,Notebook Set,Stationery,8,320,2560,Delivered
+2026-05-03,ORD-1053,North,Neha Gupta,Wireless Mouse,Electronics,4,799,3196,Cancelled
+2026-05-04,ORD-1054,North,Neha Gupta,Wireless Mouse,Electronics,4,799,3196,Delivered
+2026-05-06,ORD-1055,South,Karthik Rao,A4 Paper Box,Stationery,20,650,13000,Delivered
+2026-05-08,ORD-1056,South,Divya Nair,Wireless Mouse,Electronics,4,799,3196,Delivered
+2026-05-09,ORD-1057,North,Aman Verma,A4 Paper Box,Stationery,17,650,11050,Pending
+2026-05-09,ORD-1058,North,Aman Verma,Gel Pen Pack,Stationery,25,180,4500,Delivered
+2026-05-09,ORD-1059,North,Neha Gupta,Notebook Set,Stationery,6,320,1920,Delivered
+2026-05-10,ORD-1060,West,Sneha Joshi,Keyboard,Electronics,1,1299,1299,Delivered
+2026-05-11,ORD-1061,South,Divya Nair,Keyboard,Electronics,4,1299,5196,Delivered
+2026-05-11,ORD-1062,East,Rohit Das,A4 Paper Box,Stationery,14,650,9100,Delivered
+2026-05-12,ORD-1063,West,Vikas Patil,Keyboard,Electronics,1,1299,1299,Delivered
+2026-05-12,ORD-1064,East,Rohit Das,A4 Paper Box,Stationery,12,650,7800,Pending
+2026-05-12,ORD-1065,East,Rohit Das,Webcam HD,Electronics,2,2499,4998,Delivered
+2026-05-12,ORD-1066,West,Sneha Joshi,Gel Pen Pack,Stationery,20,180,3600,Delivered
+2026-05-13,ORD-1067,East,Priya Sen,Office Chair,Furniture,3,4500,13500,Delivered
+2026-05-13,ORD-1068,South,Divya Nair,Bookshelf,Furniture,1,3800,3800,Delivered
+2026-05-13,ORD-1069,West,Vikas Patil,Office Chair,Furniture,2,4500,9000,Delivered
+2026-05-14,ORD-1070,East,Rohit Das,Gel Pen Pack,Stationery,8,180,1440,Delivered
+2026-05-14,ORD-1071,South,Divya Nair,A4 Paper Box,Stationery,11,650,7150,Delivered
+2026-05-14,ORD-1072,South,Karthik Rao,Notebook Set,Stationery,11,320,3520,Delivered
+2026-05-14,ORD-1073,South,Karthik Rao,Wireless Mouse,Electronics,3,799,2397,Delivered
+2026-05-15,ORD-1074,North,Neha Gupta,Office Chair,Furniture,3,4500,13500,Delivered
+2026-05-17,ORD-1075,East,Rohit Das,Notebook Set,Stationery,6,320,1920,Delivered
+2026-05-18,ORD-1076,South,Karthik Rao,"Monitor 24""",Electronics,3,9500,28500,Delivered
+2026-05-19,ORD-1077,West,Sneha Joshi,Keyboard,Electronics,4,1299,5196,Pending
+2026-05-19,ORD-1078,East,Priya Sen,Keyboard,Electronics,2,1299,2598,Cancelled
+2026-05-21,ORD-1079,North,Neha Gupta,A4 Paper Box,Stationery,18,650,11700,Delivered
+2026-05-21,ORD-1080,South,Divya Nair,"Monitor 24""",Electronics,2,9500,19000,Delivered
+2026-05-21,ORD-1081,South,Karthik Rao,Bookshelf,Furniture,1,3800,3800,Delivered
+2026-05-21,ORD-1082,South,Divya Nair,Webcam HD,Electronics,3,2499,7497,Delivered
+2026-05-21,ORD-1083,South,Karthik Rao,Bookshelf,Furniture,3,3800,11400,Pending
+2026-05-22,ORD-1084,North,Neha Gupta,Keyboard,Electronics,2,1299,2598,Delivered
+2026-05-24,ORD-1085,North,Aman Verma,Gel Pen Pack,Stationery,24,180,4320,Cancelled
+2026-05-24,ORD-1086,West,Vikas Patil,Wireless Mouse,Electronics,3,799,2397,Delivered
+2026-05-25,ORD-1087,North,Aman Verma,Notebook Set,Stationery,15,320,4800,Delivered
+2026-05-26,ORD-1088,West,Vikas Patil,Study Table,Furniture,2,6200,12400,Delivered
+2026-05-27,ORD-1089,North,Neha Gupta,Notebook Set,Stationery,15,320,4800,Delivered
+2026-05-28,ORD-1090,East,Priya Sen,Notebook Set,Stationery,3,320,960,Delivered
+2026-05-29,ORD-1091,North,Aman Verma,Gel Pen Pack,Stationery,25,180,4500,Delivered
+2026-05-30,ORD-1092,East,Rohit Das,Webcam HD,Electronics,4,2499,9996,Pending
+2026-05-30,ORD-1093,North,Aman Verma,Gel Pen Pack,Stationery,23,180,4140,Delivered
+2026-05-30,ORD-1094,West,Vikas Patil,"Monitor 24""",Electronics,2,9500,19000,Delivered
+2026-05-30,ORD-1095,North,Neha Gupta,Gel Pen Pack,Stationery,6,180,1080,Delivered
+2026-05-30,ORD-1096,North,Neha Gupta,Office Chair,Furniture,2,4500,9000,Delivered
+2026-05-30,ORD-1097,South,Karthik Rao,Notebook Set,Stationery,6,320,1920,Delivered
+2026-05-31,ORD-1098,South,Divya Nair,Notebook Set,Stationery,16,320,5120,Pending
+2026-06-02,ORD-1099,North,Aman Verma,Keyboard,Electronics,2,1299,2598,Delivered
+2026-06-02,ORD-1100,East,Priya Sen,Gel Pen Pack,Stationery,4,180,720,Delivered
+2026-06-02,ORD-1101,West,Sneha Joshi,Wireless Mouse,Electronics,2,799,1598,Delivered
+2026-06-03,ORD-1102,South,Divya Nair,"Monitor 24""",Electronics,1,9500,9500,Delivered
+2026-06-03,ORD-1103,South,Divya Nair,Wireless Mouse,Electronics,4,799,3196,Delivered
+2026-06-03,ORD-1104,West,Vikas Patil,Keyboard,Electronics,2,1299,2598,Delivered
+2026-06-03,ORD-1105,South,Divya Nair,Wireless Mouse,Electronics,2,799,1598,Delivered
+2026-06-04,ORD-1106,North,Neha Gupta,Office Chair,Furniture,3,4500,13500,Delivered
+2026-06-05,ORD-1107,West,Vikas Patil,A4 Paper Box,Stationery,7,650,4550,Delivered
+2026-06-06,ORD-1108,North,Aman Verma,Keyboard,Electronics,1,1299,1299,Delivered
+2026-06-06,ORD-1109,North,Neha Gupta,A4 Paper Box,Stationery,11,650,7150,Delivered
+2026-06-06,ORD-1110,West,Vikas Patil,Wireless Mouse,Electronics,1,799,799,Delivered
+2026-06-06,ORD-1111,West,Vikas Patil,A4 Paper Box,Stationery,5,650,3250,Cancelled
+2026-06-06,ORD-1112,West,Vikas Patil,Wireless Mouse,Electronics,4,799,3196,Delivered
+2026-06-07,ORD-1113,North,Aman Verma,Study Table,Furniture,3,6200,18600,Delivered
+2026-06-07,ORD-1114,North,Aman Verma,Bookshelf,Furniture,3,3800,11400,Delivered
+2026-06-07,ORD-1115,North,Neha Gupta,Notebook Set,Stationery,22,320,7040,Pending
+2026-06-08,ORD-1116,East,Priya Sen,Wireless Mouse,Electronics,4,799,3196,Delivered
+2026-06-08,ORD-1117,South,Divya Nair,A4 Paper Box,Stationery,2,650,1300,Delivered
+2026-06-10,ORD-1118,West,Sneha Joshi,A4 Paper Box,Stationery,3,650,1950,Pending
+2026-06-10,ORD-1119,North,Aman Verma,Wireless Mouse,Electronics,1,799,799,Delivered
+2026-06-10,ORD-1120,North,Neha Gupta,Wireless Mouse,Electronics,1,799,799,Delivered
+2026-06-10,ORD-1121,South,Divya Nair,Office Chair,Furniture,2,4500,9000,Pending
+2026-06-11,ORD-1122,South,Divya Nair,Bookshelf,Furniture,2,3800,7600,Delivered
+2026-06-12,ORD-1123,East,Priya Sen,"Monitor 24""",Electronics,1,9500,9500,Cancelled
+2026-06-12,ORD-1124,South,Divya Nair,Gel Pen Pack,Stationery,19,180,3420,Delivered
+2026-06-13,ORD-1125,West,Vikas Patil,"Monitor 24""",Electronics,3,9500,28500,Delivered
+2026-06-13,ORD-1126,West,Sneha Joshi,Keyboard,Electronics,2,1299,2598,Delivered
+2026-06-14,ORD-1127,South,Divya Nair,Wireless Mouse,Electronics,3,799,2397,Delivered
+2026-06-14,ORD-1128,South,Karthik Rao,Wireless Mouse,Electronics,3,799,2397,Delivered
+2026-06-14,ORD-1129,South,Divya Nair,Gel Pen Pack,Stationery,12,180,2160,Delivered
+2026-06-14,ORD-1130,North,Neha Gupta,Notebook Set,Stationery,22,320,7040,Delivered
+2026-06-15,ORD-1131,North,Aman Verma,Notebook Set,Stationery,21,320,6720,Delivered
+2026-06-15,ORD-1132,North,Neha Gupta,Notebook Set,Stationery,13,320,4160,Delivered
+2026-06-17,ORD-1133,North,Neha Gupta,Webcam HD,Electronics,4,2499,9996,Delivered
+2026-06-17,ORD-1134,North,Neha Gupta,A4 Paper Box,Stationery,9,650,5850,Delivered
+2026-06-17,ORD-1135,North,Aman Verma,Office Chair,Furniture,2,4500,9000,Delivered
+2026-06-19,ORD-1136,East,Rohit Das,Webcam HD,Electronics,3,2499,7497,Delivered
+2026-06-21,ORD-1137,East,Priya Sen,Webcam HD,Electronics,3,2499,7497,Delivered
+2026-06-22,ORD-1138,West,Vikas Patil,Gel Pen Pack,Stationery,3,180,540,Delivered
+2026-06-22,ORD-1139,West,Vikas Patil,Notebook Set,Stationery,17,320,5440,Pending
+2026-06-22,ORD-1140,South,Divya Nair,Gel Pen Pack,Stationery,22,180,3960,Delivered
+2026-06-23,ORD-1141,East,Rohit Das,Notebook Set,Stationery,17,320,5440,Delivered
+2026-06-23,ORD-1142,North,Aman Verma,A4 Paper Box,Stationery,9,650,5850,Delivered
+2026-06-23,ORD-1143,East,Rohit Das,A4 Paper Box,Stationery,9,650,5850,Delivered
+2026-06-25,ORD-1144,South,Karthik Rao,Gel Pen Pack,Stationery,18,180,3240,Delivered
+2026-06-25,ORD-1145,South,Divya Nair,"Monitor 24""",Electronics,3,9500,28500,Delivered
+2026-06-25,ORD-1146,West,Sneha Joshi,A4 Paper Box,Stationery,5,650,3250,Delivered
+2026-06-26,ORD-1147,South,Karthik Rao,A4 Paper Box,Stationery,4,650,2600,Delivered
+2026-06-26,ORD-1148,South,Divya Nair,Gel Pen Pack,Stationery,2,180,360,Delivered
+2026-06-27,ORD-1149,North,Aman Verma,Bookshelf,Furniture,1,3800,3800,Delivered
+2026-06-28,ORD-1150,West,Vikas Patil,Wireless Mouse,Electronics,1,799,799,Delivered
+2026-06-28,ORD-1151,South,Karthik Rao,Notebook Set,Stationery,17,320,5440,Delivered
+2026-06-29,ORD-1152,East,Priya Sen,Notebook Set,Stationery,16,320,5120,Delivered
+2026-06-30,ORD-1153,North,Aman Verma,Notebook Set,Stationery,2,320,640,Pending
+2026-07-01,ORD-1154,East,Rohit Das,Gel Pen Pack,Stationery,9,180,1620,Delivered
+2026-07-02,ORD-1155,North,Neha Gupta,Keyboard,Electronics,2,1299,2598,Delivered
+2026-07-02,ORD-1156,West,Vikas Patil,Notebook Set,Stationery,18,320,5760,Delivered
+2026-07-02,ORD-1157,South,Karthik Rao,A4 Paper Box,Stationery,18,650,11700,Pending
+2026-07-03,ORD-1158,East,Priya Sen,"Monitor 24""",Electronics,1,9500,9500,Delivered
+2026-07-03,ORD-1159,North,Neha Gupta,Office Chair,Furniture,1,4500,4500,Delivered
+2026-07-04,ORD-1160,North,Neha Gupta,Office Chair,Furniture,3,4500,13500,Delivered
+2026-07-04,ORD-1161,West,Sneha Joshi,Webcam HD,Electronics,2,2499,4998,Delivered
+2026-07-05,ORD-1162,North,Neha Gupta,Wireless Mouse,Electronics,1,799,799,Delivered
+2026-07-05,ORD-1163,West,Sneha Joshi,Gel Pen Pack,Stationery,5,180,900,Delivered
+2026-07-05,ORD-1164,North,Aman Verma,Webcam HD,Electronics,2,2499,4998,Delivered
+2026-07-05,ORD-1165,North,Neha Gupta,A4 Paper Box,Stationery,19,650,12350,Delivered
+2026-07-06,ORD-1166,North,Neha Gupta,Keyboard,Electronics,1,1299,1299,Delivered
+2026-07-06,ORD-1167,North,Neha Gupta,Wireless Mouse,Electronics,4,799,3196,Delivered
+2026-07-06,ORD-1168,North,Aman Verma,Office Chair,Furniture,2,4500,9000,Delivered
+2026-07-07,ORD-1169,South,Divya Nair,Keyboard,Electronics,4,1299,5196,Delivered
+2026-07-07,ORD-1170,West,Sneha Joshi,Notebook Set,Stationery,24,320,7680,Cancelled
+2026-07-08,ORD-1171,South,Karthik Rao,Gel Pen Pack,Stationery,11,180,1980,Pending
+2026-07-08,ORD-1172,West,Sneha Joshi,Notebook Set,Stationery,16,320,5120,Cancelled
+2026-07-09,ORD-1173,North,Neha Gupta,Keyboard,Electronics,1,1299,1299,Delivered
+2026-07-09,ORD-1174,North,Neha Gupta,Wireless Mouse,Electronics,2,799,1598,Cancelled
+2026-07-10,ORD-1175,North,Aman Verma,A4 Paper Box,Stationery,9,650,5850,Delivered
+2026-07-10,ORD-1176,South,Divya Nair,Webcam HD,Electronics,3,2499,7497,Delivered
+2026-07-11,ORD-1177,South,Karthik Rao,Office Chair,Furniture,1,4500,4500,Delivered
+2026-07-11,ORD-1178,West,Sneha Joshi,Study Table,Furniture,1,6200,6200,Delivered
+2026-07-11,ORD-1179,North,Neha Gupta,"Monitor 24""",Electronics,3,9500,28500,Delivered
+2026-07-11,ORD-1180,East,Priya Sen,Study Table,Furniture,3,6200,18600,Delivered
+2026-07-12,ORD-1181,North,Neha Gupta,Study Table,Furniture,2,6200,12400,Delivered
+2026-07-12,ORD-1182,West,Sneha Joshi,Webcam HD,Electronics,1,2499,2499,Delivered
+2026-07-12,ORD-1183,East,Rohit Das,"Monitor 24""",Electronics,2,9500,19000,Delivered
+2026-07-13,ORD-1184,North,Neha Gupta,"Monitor 24""",Electronics,3,9500,28500,Delivered
+2026-07-13,ORD-1185,West,Sneha Joshi,Webcam HD,Electronics,2,2499,4998,Delivered
+2026-07-13,ORD-1186,East,Rohit Das,A4 Paper Box,Stationery,19,650,12350,Delivered
+2026-07-14,ORD-1187,West,Sneha Joshi,Wireless Mouse,Electronics,4,799,3196,Cancelled
+2026-07-15,ORD-1188,North,Aman Verma,Notebook Set,Stationery,5,320,1600,Delivered
+2026-07-19,ORD-1189,North,Aman Verma,Wireless Mouse,Electronics,1,799,799,Pending
+2026-07-19,ORD-1190,North,Aman Verma,Wireless Mouse,Electronics,1,799,799,Cancelled
+2026-07-20,ORD-1191,North,Neha Gupta,Office Chair,Furniture,3,4500,13500,Delivered
+2026-07-20,ORD-1192,East,Rohit Das,Notebook Set,Stationery,22,320,7040,Delivered
+2026-07-22,ORD-1193,North,Aman Verma,A4 Paper Box,Stationery,3,650,1950,Delivered
+2026-07-23,ORD-1194,North,Neha Gupta,Notebook Set,Stationery,3,320,960,Delivered
+2026-07-24,ORD-1195,North,Aman Verma,Study Table,Furniture,2,6200,12400,Delivered
+2026-07-24,ORD-1196,North,Neha Gupta,A4 Paper Box,Stationery,12,650,7800,Cancelled
+2026-07-24,ORD-1197,South,Divya Nair,Bookshelf,Furniture,3,3800,11400,Cancelled
+2026-07-24,ORD-1198,North,Neha Gupta,Wireless Mouse,Electronics,2,799,1598,Delivered
+2026-07-25,ORD-1199,East,Rohit Das,Study Table,Furniture,2,6200,12400,Delivered
+2026-07-25,ORD-1200,South,Divya Nair,Notebook Set,Stationery,9,320,2880,Delivered
+2026-07-25,ORD-1201,East,Rohit Das,Bookshelf,Furniture,2,3800,7600,Delivered
+2026-07-26,ORD-1202,North,Neha Gupta,Webcam HD,Electronics,4,2499,9996,Cancelled
+2026-07-26,ORD-1203,North,Neha Gupta,Gel Pen Pack,Stationery,17,180,3060,Delivered
+2026-07-26,ORD-1204,South,Divya Nair,A4 Paper Box,Stationery,24,650,15600,Delivered
+2026-07-27,ORD-1205,North,Aman Verma,A4 Paper Box,Stationery,9,650,5850,Delivered
+2026-07-27,ORD-1206,West,Sneha Joshi,Study Table,Furniture,3,6200,18600,Delivered
+2026-07-28,ORD-1207,South,Karthik Rao,Webcam HD,Electronics,2,2499,4998,Delivered
+2026-07-28,ORD-1208,North,Neha Gupta,Gel Pen Pack,Stationery,15,180,2700,Delivered
+2026-07-28,ORD-1209,North,Aman Verma,A4 Paper Box,Stationery,25,650,16250,Delivered
+2026-07-28,ORD-1210,North,Aman Verma,Study Table,Furniture,3,6200,18600,Delivered
+2026-07-29,ORD-1211,South,Divya Nair,Study Table,Furniture,2,6200,12400,Cancelled
+2026-07-29,ORD-1212,South,Divya Nair,Gel Pen Pack,Stationery,23,180,4140,Delivered
+2026-07-29,ORD-1213,East,Rohit Das,Bookshelf,Furniture,1,3800,3800,Cancelled
+2026-07-30,ORD-1214,West,Vikas Patil,Wireless Mouse,Electronics,1,799,799,Delivered
+2026-07-31,ORD-1215,North,Aman Verma,Office Chair,Furniture,1,4500,4500,Delivered
+2026-08-01,ORD-1216,West,Sneha Joshi,Gel Pen Pack,Stationery,22,180,3960,Delivered
+2026-08-01,ORD-1217,West,Vikas Patil,A4 Paper Box,Stationery,3,650,1950,Delivered
+2026-08-01,ORD-1218,South,Divya Nair,Bookshelf,Furniture,1,3800,3800,Delivered
+2026-08-02,ORD-1219,South,Karthik Rao,Notebook Set,Stationery,15,320,4800,Delivered
+2026-08-02,ORD-1220,South,Karthik Rao,Study Table,Furniture,1,6200,6200,Delivered
+2026-08-02,ORD-1221,South,Karthik Rao,Gel Pen Pack,Stationery,6,180,1080,Pending
+2026-08-03,ORD-1222,South,Karthik Rao,Wireless Mouse,Electronics,2,799,1598,Cancelled
+2026-08-04,ORD-1223,East,Priya Sen,Gel Pen Pack,Stationery,25,180,4500,Delivered
+2026-08-05,ORD-1224,North,Neha Gupta,Gel Pen Pack,Stationery,2,180,360,Delivered
+2026-08-06,ORD-1225,West,Sneha Joshi,Wireless Mouse,Electronics,1,799,799,Delivered
+2026-08-06,ORD-1226,North,Aman Verma,Webcam HD,Electronics,1,2499,2499,Delivered
+2026-08-06,ORD-1227,South,Divya Nair,Office Chair,Furniture,2,4500,9000,Delivered
+2026-08-07,ORD-1228,North,Aman Verma,Study Table,Furniture,2,6200,12400,Delivered
+2026-08-08,ORD-1229,North,Aman Verma,Bookshelf,Furniture,2,3800,7600,Delivered
+2026-08-08,ORD-1230,West,Vikas Patil,Office Chair,Furniture,1,4500,4500,Delivered
+2026-08-08,ORD-1231,South,Divya Nair,Office Chair,Furniture,1,4500,4500,Cancelled
+2026-08-08,ORD-1232,South,Divya Nair,Bookshelf,Furniture,1,3800,3800,Delivered
+2026-08-09,ORD-1233,North,Aman Verma,Wireless Mouse,Electronics,4,799,3196,Delivered
+2026-08-10,ORD-1234,West,Sneha Joshi,Office Chair,Furniture,1,4500,4500,Delivered
+2026-08-10,ORD-1235,West,Vikas Patil,Gel Pen Pack,Stationery,10,180,1800,Delivered
+2026-08-11,ORD-1236,North,Aman Verma,Webcam HD,Electronics,3,2499,7497,Delivered
+2026-08-11,ORD-1237,South,Divya Nair,Study Table,Furniture,3,6200,18600,Delivered
+2026-08-12,ORD-1238,North,Aman Verma,Office Chair,Furniture,2,4500,9000,Delivered
+2026-08-12,ORD-1239,South,Karthik Rao,Wireless Mouse,Electronics,4,799,3196,Delivered
+2026-08-13,ORD-1240,South,Karthik Rao,A4 Paper Box,Stationery,16,650,10400,Delivered
+2026-08-13,ORD-1241,East,Rohit Das,Study Table,Furniture,1,6200,6200,Delivered
+2026-08-14,ORD-1242,North,Neha Gupta,Wireless Mouse,Electronics,1,799,799,Delivered
+2026-08-15,ORD-1243,North,Neha Gupta,"Monitor 24""",Electronics,3,9500,28500,Pending
+2026-08-16,ORD-1244,North,Aman Verma,A4 Paper Box,Stationery,2,650,1300,Delivered
+2026-08-16,ORD-1245,North,Neha Gupta,Keyboard,Electronics,4,1299,5196,Delivered
+2026-08-16,ORD-1246,South,Divya Nair,Wireless Mouse,Electronics,1,799,799,Delivered
+2026-08-19,ORD-1247,North,Neha Gupta,Study Table,Furniture,3,6200,18600,Delivered
+2026-08-19,ORD-1248,North,Aman Verma,Webcam HD,Electronics,3,2499,7497,Delivered
+2026-08-19,ORD-1249,East,Rohit Das,Wireless Mouse,Electronics,4,799,3196,Delivered
+2026-08-19,ORD-1250,North,Aman Verma,Wireless Mouse,Electronics,2,799,1598,Pending
+2026-08-20,ORD-1251,South,Divya Nair,Wireless Mouse,Electronics,1,799,799,Cancelled
+2026-08-21,ORD-1252,North,Neha Gupta,Office Chair,Furniture,2,4500,9000,Delivered
+2026-08-21,ORD-1253,North,Aman Verma,A4 Paper Box,Stationery,10,650,6500,Delivered
+2026-08-21,ORD-1254,South,Divya Nair,Wireless Mouse,Electronics,1,799,799,Delivered
+2026-08-21,ORD-1255,North,Aman Verma,Gel Pen Pack,Stationery,6,180,1080,Delivered
+2026-08-22,ORD-1256,North,Aman Verma,Bookshelf,Furniture,1,3800,3800,Delivered
+2026-08-22,ORD-1257,South,Divya Nair,A4 Paper Box,Stationery,10,650,6500,Delivered
+2026-08-23,ORD-1258,West,Vikas Patil,Study Table,Furniture,1,6200,6200,Delivered
+2026-08-24,ORD-1259,West,Sneha Joshi,Gel Pen Pack,Stationery,2,180,360,Pending
+2026-08-25,ORD-1260,North,Aman Verma,Keyboard,Electronics,2,1299,2598,Delivered
+2026-08-25,ORD-1261,West,Vikas Patil,Keyboard,Electronics,4,1299,5196,Delivered
+2026-08-26,ORD-1262,West,Vikas Patil,A4 Paper Box,Stationery,8,650,5200,Cancelled
+2026-08-26,ORD-1263,South,Divya Nair,Bookshelf,Furniture,3,3800,11400,Delivered
+2026-08-27,ORD-1264,West,Vikas Patil,Office Chair,Furniture,2,4500,9000,Delivered
+2026-08-27,ORD-1265,North,Neha Gupta,Bookshelf,Furniture,3,3800,11400,Cancelled
+2026-08-29,ORD-1266,North,Aman Verma,A4 Paper Box,Stationery,17,650,11050,Delivered
+2026-08-29,ORD-1267,East,Priya Sen,Keyboard,Electronics,4,1299,5196,Delivered
+2026-08-31,ORD-1268,East,Rohit Das,Gel Pen Pack,Stationery,18,180,3240,Delivered
+2026-09-01,ORD-1269,North,Neha Gupta,A4 Paper Box,Stationery,16,650,10400,Delivered
+2026-09-01,ORD-1270,East,Rohit Das,"Monitor 24""",Electronics,2,9500,19000,Delivered
+2026-09-03,ORD-1271,South,Divya Nair,A4 Paper Box,Stationery,21,650,13650,Delivered
+2026-09-03,ORD-1272,North,Neha Gupta,A4 Paper Box,Stationery,20,650,13000,Delivered
+2026-09-03,ORD-1273,East,Priya Sen,Office Chair,Furniture,3,4500,13500,Pending
+2026-09-04,ORD-1274,North,Neha Gupta,A4 Paper Box,Stationery,11,650,7150,Delivered
+2026-09-05,ORD-1275,South,Divya Nair,Notebook Set,Stationery,13,320,4160,Delivered
+2026-09-05,ORD-1276,South,Divya Nair,A4 Paper Box,Stationery,3,650,1950,Delivered
+2026-09-05,ORD-1277,North,Neha Gupta,Wireless Mouse,Electronics,1,799,799,Delivered
+2026-09-06,ORD-1278,South,Karthik Rao,Keyboard,Electronics,4,1299,5196,Delivered
+2026-09-07,ORD-1279,West,Sneha Joshi,Notebook Set,Stationery,2,320,640,Delivered
+2026-09-07,ORD-1280,North,Aman Verma,Notebook Set,Stationery,9,320,2880,Cancelled
+2026-09-07,ORD-1281,South,Karthik Rao,Office Chair,Furniture,2,4500,9000,Delivered
+2026-09-08,ORD-1282,South,Karthik Rao,Office Chair,Furniture,3,4500,13500,Delivered
+2026-09-08,ORD-1283,North,Aman Verma,Office Chair,Furniture,2,4500,9000,Delivered
+2026-09-08,ORD-1284,West,Vikas Patil,Office Chair,Furniture,1,4500,4500,Delivered
+2026-09-09,ORD-1285,North,Aman Verma,Gel Pen Pack,Stationery,19,180,3420,Delivered
+2026-09-09,ORD-1286,West,Sneha Joshi,Gel Pen Pack,Stationery,16,180,2880,Cancelled
+2026-09-10,ORD-1287,North,Neha Gupta,Keyboard,Electronics,2,1299,2598,Delivered
+2026-09-10,ORD-1288,West,Sneha Joshi,A4 Paper Box,Stationery,10,650,6500,Delivered
+2026-09-10,ORD-1289,North,Aman Verma,Wireless Mouse,Electronics,3,799,2397,Delivered
+2026-09-10,ORD-1290,East,Priya Sen,Office Chair,Furniture,3,4500,13500,Delivered
+2026-09-12,ORD-1291,North,Aman Verma,Wireless Mouse,Electronics,4,799,3196,Delivered
+2026-09-12,ORD-1292,East,Rohit Das,Study Table,Furniture,2,6200,12400,Delivered
+2026-09-12,ORD-1293,North,Neha Gupta,Wireless Mouse,Electronics,2,799,1598,Cancelled
+2026-09-12,ORD-1294,North,Aman Verma,"Monitor 24""",Electronics,1,9500,9500,Delivered
+2026-09-13,ORD-1295,East,Priya Sen,Webcam HD,Electronics,3,2499,7497,Delivered
+2026-09-14,ORD-1296,West,Sneha Joshi,Wireless Mouse,Electronics,1,799,799,Delivered
+2026-09-14,ORD-1297,South,Divya Nair,Notebook Set,Stationery,15,320,4800,Delivered
+2026-09-15,ORD-1298,South,Karthik Rao,Office Chair,Furniture,1,4500,4500,Delivered
+2026-09-15,ORD-1299,North,Neha Gupta,Keyboard,Electronics,2,1299,2598,Delivered
+2026-09-15,ORD-1300,North,Neha Gupta,A4 Paper Box,Stationery,10,650,6500,Delivered
+2026-09-16,ORD-1301,West,Vikas Patil,Study Table,Furniture,1,6200,6200,Delivered
+2026-09-16,ORD-1302,West,Sneha Joshi,Keyboard,Electronics,4,1299,5196,Delivered
+2026-09-18,ORD-1303,West,Sneha Joshi,Study Table,Furniture,3,6200,18600,Pending
+2026-09-18,ORD-1304,East,Rohit Das,Keyboard,Electronics,2,1299,2598,Delivered
+2026-09-21,ORD-1305,North,Aman Verma,Webcam HD,Electronics,1,2499,2499,Delivered
+2026-09-22,ORD-1306,South,Divya Nair,Wireless Mouse,Electronics,4,799,3196,Delivered
+2026-09-23,ORD-1307,West,Vikas Patil,Notebook Set,Stationery,10,320,3200,Delivered
+2026-09-24,ORD-1308,West,Sneha Joshi,Webcam HD,Electronics,1,2499,2499,Delivered
+2026-09-24,ORD-1309,North,Aman Verma,A4 Paper Box,Stationery,15,650,9750,Delivered
+2026-09-25,ORD-1310,North,Aman Verma,Notebook Set,Stationery,17,320,5440,Delivered
+2026-09-25,ORD-1311,North,Neha Gupta,Gel Pen Pack,Stationery,24,180,4320,Delivered
+2026-09-25,ORD-1312,West,Sneha Joshi,Notebook Set,Stationery,12,320,3840,Pending
+2026-09-25,ORD-1313,West,Sneha Joshi,A4 Paper Box,Stationery,3,650,1950,Delivered
+2026-09-26,ORD-1314,South,Karthik Rao,Keyboard,Electronics,3,1299,3897,Cancelled
+2026-09-26,ORD-1315,West,Vikas Patil,Office Chair,Furniture,3,4500,13500,Cancelled
+2026-09-26,ORD-1316,North,Aman Verma,Office Chair,Furniture,1,4500,4500,Delivered
+2026-09-27,ORD-1317,West,Vikas Patil,Study Table,Furniture,3,6200,18600,Delivered
+2026-09-28,ORD-1318,West,Vikas Patil,Notebook Set,Stationery,25,320,8000,Delivered
+2026-09-30,ORD-1319,West,Vikas Patil,Office Chair,Furniture,1,4500,4500,Delivered
+2026-09-30,ORD-1320,North,Aman Verma,Notebook Set,Stationery,22,320,7040,Delivered
